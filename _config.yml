@@ -1,0 +1,11 @@
+# This is going to be a great one
+title: My Test Blog
+author: Alex Thibello Motebang
+email: MolafuMotebang@gmail.com
+description: This blog is my first.
+facebook_username: Alex Thibello Motebang
+github_username: ThibelloMotebang
+
+# Build settings
+markdown: krandown
+theme: minima
