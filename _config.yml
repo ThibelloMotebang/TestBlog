@@ -1,9 +1,10 @@
-# This is going to be a great one
-title: My-Test-Blog
+# basic options, 1 can say whatever here
+title: My Test Blog
 author: Alex Thibello Motebang
 email: MolafuMotebang@gmail.com
 description: This blog is my first.
 facebook_username: Alex Thibello Motebang
+instagram_username: thibello_motebang
 github_username: ThibelloMotebang
 
 # Build settings
